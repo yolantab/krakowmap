@@ -4,9 +4,10 @@ import './App.css';
 import {GoogleApiWrapper } from 'google-maps-react';
 // import child component
 import MapContainer from './MapContainer';
+
+
 class App extends Component {
   
-
 
   render() {
     return (

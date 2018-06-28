@@ -4,11 +4,12 @@
   "private": true,
   "dependencies": {
     "google-maps-react": "^2.0.2",
+    "node-serve": "0.0.3",
     "react": "^15.6.1",
-    "react-autobind": "^1.0.6",
     "react-dom": "^15.6.1",
     "react-foursquare": "^1.0.3",
-    "react-scripts": "1.0.13"
+    "react-scripts": "1.0.13",
+    "yarn": "^1.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
