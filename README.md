@@ -10,7 +10,7 @@ create-react-app
 google-maps-react (google maps api)
 react-foursquare (foursquare api)
 
-##Installation
+###Installation
 
 Clone this repo or download the zip file. 
 
