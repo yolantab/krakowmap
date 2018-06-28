@@ -10,7 +10,7 @@ create-react-app
 google-maps-react (google maps api)
 react-foursquare (foursquare api)
 
-###Installation
+### Installation
 
 Clone this repo or download the zip file. 
 
@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-#Service worker 
+# Service worker 
 
 Note that service worker doesn't work in development mode. 
 
